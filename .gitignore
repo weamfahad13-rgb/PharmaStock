@@ -1,0 +1,12 @@
+.env
+
+__pycache__/
+*.pyc
+.venv/
+
+server/agent_logs.jsonl
+
+.claude/
+.vercel
+.env*
+!.env.example

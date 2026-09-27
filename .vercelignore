@@ -1,0 +1,7 @@
+.env
+.claude
+notebooks
+server/agent_logs.jsonl
+**/__pycache__
+.env.local
+.vercel

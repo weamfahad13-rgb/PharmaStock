@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "{server/**,pharmastock-dashboard/**}",
+      "maxDuration": 60
+    }
+  }
+}
